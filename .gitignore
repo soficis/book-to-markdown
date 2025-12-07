@@ -153,7 +153,6 @@ Thumbs.db
 *.log
 
 # Output files
-*.md
 output.md
 
 # Test files
